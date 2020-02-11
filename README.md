@@ -16,7 +16,7 @@ To clone and run this challenge, you'll need [Git](https://git-scm.com) and [Nod
   cd supera-challange
 
   # Run a specific question
-  node question-01.js
+  node sortByLenght.js
 ```
 
 ---
